@@ -1,0 +1,1 @@
+start new_sim/worlds/basic.wbt
